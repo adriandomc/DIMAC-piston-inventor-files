@@ -3,6 +3,6 @@ Archivos del proyecto final para la materia de Diseño mecánico asistido por co
 
 Los archivos se encuentran organizados por extensión.
 - [ipt](./files/ipt): Diseños de pieza de cada uno de los componentes.
-- iam: Archivo general del ensamblaje.
-- idw: Esquemáticos con dimensiones en formato A4 con medidas en mm.
-- pdf: Documentos de cada uno de los esquemáticos para fácil visualización.
+- [iam](./files/iam): Archivo general del ensamblaje.
+- [idw](./files/idw): Esquemáticos con dimensiones en formato A4 con medidas en mm.
+- [pdf](./files/pdf): Documentos de cada uno de los esquemáticos para fácil visualización.
